@@ -57,6 +57,8 @@ npm install -g pnpm
 # 安装依赖
 pnpm install
 
+pnpm add -g pnpm
+
 # 预览
 pnpm dev
 
